@@ -31,7 +31,7 @@ I've been building web applications since 2021, working with Laravel, Tailwind C
 - **Backend:** Laravel, PHP, Nginx, Bash  
 - **Frontend:** Vue.js, JavaScript, Tailwind CSS  
 - **Инструменты:** Neovim, Sublime Text, PhpStorm  
-- **Дополнительно:** ChatGPT (если можно так сказать)
+- **Дополнительно:** ChatGPT (там где это допустимо)
 
 ### 🔥 Чем я отличаюсь?
 - Оптимизирую код и производительность проектов
@@ -53,8 +53,9 @@ I've been building web applications since 2021, working with Laravel, Tailwind C
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2rkmen" alt="2rkmen" /></a> </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=2rkmen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2rkmen&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2rkmen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2rkmen&show_icons=true&locale=en&layout=compact" alt="2rkmen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2rkmen&show_icons=true&locale=en" alt="2rkmen" /></p>
 
